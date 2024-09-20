@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\PMLS\\\\Downloads\\\\Compressed\\\\Voxel-E-commerce-master\\\\nuxt2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_eb0ebd86"
+  },
+  {
+    "name": "category",
+    "path": "/:category",
+    "component": "C:\\\\Users\\\\PMLS\\\\Downloads\\\\Compressed\\\\Voxel-E-commerce-master\\\\nuxt2\\\\pages\\\\_category.vue",
+    "chunkName": "pages/_category",
+    "_name": "_045007c8"
+  }
+]
